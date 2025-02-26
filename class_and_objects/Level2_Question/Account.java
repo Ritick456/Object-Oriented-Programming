@@ -8,9 +8,9 @@ public class Account {
 	
 	
 	Account(String name, int bal){
+
 		this.name = name;
 		this.bankBalance = bal;
-		
 		
 	}
 	
